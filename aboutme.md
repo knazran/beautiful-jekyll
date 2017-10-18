@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: I am Khairul Nazran
+subtitle: But most people call me 'Naz'
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Born and raised in a Malaysia suburbs of Setapak, studied in the cold winter wonderland of Ann Arbor, Michigan, and now back in Malaysia to continue my life long journey to be a modern Renaissance Man. Intellectually curious and a motivated self-starter, I want to discover and explore the world with a dash of humor and whimsicality. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Five Quick Facts
+- Currently working as an Analyst-cum-Data Scientist at Central Bank of Malaysia
+- Hobby hops once every year. Previously dived into a wide range of hobbies including gourmet cooking, powerlifting, poetry, short story writing, jazz saxophone, anime critique, and competitive DotA 2
+- I am passionate about technology and its potential to disrupt and change the world as we know it. My interest ranges from big data, fintech, blockchain and IoT.
+- My home is also the home of many cats.
+- I believe in knowledge sharing for the good of all.
 
-What else do you need?
+### Why Data Science? And why this blog?
 
-### my history
+I graduated with a Bachelors in Computer Science and Economics. I did courses in Econometrics, I know Python, I learn about distributed systems, machine learning, and optimization, I'm working at a Central Bank. My background from these fields suits the multidisciplinary nature of Data Science which merges the fields of Statistics, Maths, and Computer science to solve domain specific problems in virtually any industry nowadays. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+With the demand of talents capable of utilizing the huge amount of data available nowadays, I want to jump into the bandwagon.
+
+This blog is meant to be a documentation of my journey and to share my learnings on Data Sciences. Especially in Malaysia where the field is at nascent stage, I want to help the talent ecosystem and help my fellow aspring data scientists at their journey.
+
+### Interested to connect? Contact me via Linkedin!
