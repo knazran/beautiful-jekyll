@@ -1,7 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: 2017-12-2-the-anxiety-of-scale.md
+date: 2017-12-2
+subtitle: 'Big data science requires big set of skills. Well no s**t, Sherlock'
 ---
 ## The Anxiety of Scale
 
@@ -20,4 +22,3 @@ Here are some of the topics I have in my list to be learned within the next thre
 And the list goes on. Truth to be told it gave me some anxiety at the scale of it all and begs the question: When do I learn all of these? On the job? Over the weekends? At night?
 
 Currently its all three. My, the journey sounds pretty long and far.
-
