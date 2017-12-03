@@ -1,13 +1,10 @@
 ---
 layout: post
 published: true
-title: the-anxiety-of-scale.md
+title: The Anxiety of Scale
 date: 2017-12-2
 subtitle: 'Big data science requires big set of skills. Well no s**t, Sherlock'
 ---
-## The Anxiety of Scale
-
-
 It has been nearly five months since I officially started my data science journey (And a month officially under my organization's Data Science Unit), and it is still very daunting on how far I am from being a full fledged Data Scientist.
 
 As a part of a small team of data scientists, it is expected for each of its members to be able to do a wide spectrum of tasks, from initializing development environments and pushing models to productions, to deliberating problems into hypothesis and jumping into subject matter specific equations. It is unsurprising to me as data science as a field is a fundamentally broad subject matter to begin with.
