@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 2017-12-2-the-anxiety-of-scale.md
+title: the-anxiety-of-scale.md
 date: 2017-12-2
 subtitle: 'Big data science requires big set of skills. Well no s**t, Sherlock'
 ---
